@@ -1,0 +1,5 @@
+C:/Users/radub/Documents/Hermes-islands-master/Hermes-islands-master/build/CMakeFiles/hermescore.dir
+C:/Users/radub/Documents/Hermes-islands-master/Hermes-islands-master/build/CMakeFiles/hermes_islands.dir
+C:/Users/radub/Documents/Hermes-islands-master/Hermes-islands-master/build/CMakeFiles/hermesbridge.dir
+C:/Users/radub/Documents/Hermes-islands-master/Hermes-islands-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/radub/Documents/Hermes-islands-master/Hermes-islands-master/build/CMakeFiles/ZERO_CHECK.dir

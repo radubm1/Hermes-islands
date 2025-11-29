@@ -1,0 +1,10 @@
+^C:\USERS\RADUB\DOCUMENTS\HERMES-ISLANDS-MASTER\HERMES-ISLANDS-MASTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/radub/Documents/Hermes-islands-master/Hermes-islands-master -BC:/Users/radub/Documents/Hermes-islands-master/Hermes-islands-master/build --check-stamp-file C:/Users/radub/Documents/Hermes-islands-master/Hermes-islands-master/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

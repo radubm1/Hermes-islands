@@ -1,0 +1,10 @@
+^C:\USERS\RADUB\DOCUMENTS\HERMES-ISLANDS-MASTER\HERMES-ISLANDS-MASTER\BUILD\CMAKEFILES\E85B11E2A02EC30E0D830B22933B2910\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/radub/Documents/Hermes-islands-master/Hermes-islands-master -BC:/Users/radub/Documents/Hermes-islands-master/Hermes-islands-master/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/radub/Documents/Hermes-islands-master/Hermes-islands-master/build/hermes_islands.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

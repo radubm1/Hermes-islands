@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/radub/Documents/Hermes-islands-master/Hermes-islands-master/CMakeLists.txt
+  event_bus.cpp
+  island.cpp
+  vm.cpp
+  Generating Code...
+  hermescore.vcxproj -> C:\Users\radub\Documents\Hermes-islands-master\Hermes-islands-master\build\Debug\hermescore.lib
